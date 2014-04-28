@@ -1,12 +1,11 @@
----
----
 ### Experience
 
 #### Senior Informatics Analyst, University of Oklahoma; Norman, OK __2010-present__
 
 * Built a team of informatics professionals by embedding with and partnering with research faculty to provide enabling cyber-infrastructure for global environmental change research projects. 
 * Architect and implement open source software/hardware solutions for research orientated BigData workflows. 
-* Develop and deliver teaching and training material, advancing scientific throughput through appropriate use of software systems and tools.* Active participant in grant writing to build soft-money funded research-support operation bringing in over $2.9m per year in federal research dollars, covering in excess of $300k per year in salary for the Informatics services team.
+* Develop and deliver teaching and training material, advancing scientific throughput through appropriate use of software systems and tools.
+* Active participant in grant writing to build soft-money funded research-support operation bringing in over $2.9m per year in federal research dollars, covering in excess of $300k per year in salary for the Informatics services team.
 
 #### Senior Analyst, Lanworth; Itasca, IL __2008-2010__
 

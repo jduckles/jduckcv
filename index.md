@@ -1,5 +1,5 @@
 ---
-layout: resumeh
+layout: resumemodern
 title: The CV of Jonah Duckles
 ---
 

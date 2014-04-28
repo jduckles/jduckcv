@@ -1,7 +1,5 @@
----
----
 
-Jonah M Duckles
+# Jonah M Duckles
 
 +1.765.532.1126
 

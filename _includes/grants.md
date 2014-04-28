@@ -1,6 +1,3 @@
----
-
----
 ### Grants
 
 * NCIIA E-Teams - PI - "Siren Weather Analysis Application", April 1, 2014 - December 31, 2014. #11343-14
